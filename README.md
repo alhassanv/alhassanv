@@ -5,7 +5,7 @@ I am Alhassan! I am a developer who is passionate about learning new technologie
 - 👨🏽‍💻 Current work on 
 - 🌐 You can view my portfolio at [porfolio website](https://alhassan.best).
 
-[<img src ="https://img.shields.io/badge/portfolio-web-%23.svg?&style=for-the-badge&logo=&logoColor=white%22">](https://alhassan.best/) [<img src ="https://img.shields.io/badge/portfolio-web-%23.svg?&style=for-the-badge&logo=&logoColor=white%22">](https://alhassan.best) ![Visits Badge](https://badges.pufler.dev/visits/pr2tik1/pr2tik1?style=for-the-badge)
+[<img src ="https://img.shields.io/badge/portfolio-web-%23.svg?&style=for-the-badge&logo=&logoColor=white%22">](https://alhassan.best) ![Visits Badge](https://badges.pufler.dev/visits/pr2tik1/pr2tik1?style=for-the-badge)
 
 ---
 My Github Stats: 
