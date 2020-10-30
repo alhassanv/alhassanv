@@ -12,9 +12,6 @@ I am Alhassan! I am a developer who is passionate about learning new technologie
   </a>
 </p>
 
----
-My Github Stats: 
-
 <br>
 
 <p align="center">
