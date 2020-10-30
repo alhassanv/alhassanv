@@ -10,8 +10,8 @@ I am Alhassan! I am a developer who is passionate about learning new technologie
   <a href="https://github.com/alhassanv?tab=followers">
     <img src="https://img.shields.io/github/followers/alhassanv?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
   </a>
-  <a href="https://discord.xenfire.net/">
-    <img src="https://img.shields.io/discord/287164043591024641?logo=discord&style=for-the-badge" />
+  <a href="https://discord.com/invite/rmxEgCc">
+    <img src="https://img.shields.io/discord/672563103803637760?logo=discord&style=for-the-badge" />
   </a>
 </p>
 
