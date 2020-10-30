@@ -5,7 +5,15 @@ I am Alhassan! I am a developer who is passionate about learning new technologie
 - 👨🏽‍💻 Current work on commissions.
 - 🌐 You can view my portfolio at [porfolio website](https://alhassan.best).
 
-[<img src ="https://img.shields.io/badge/portfolio-web-%23.svg?&style=for-the-badge&logo=&logoColor=white%22">](https://alhassan.best) ![Visits Badge](https://badges.pufler.dev/visits/pr2tik1/pr2tik1?style=for-the-badge)
+
+<p align="center">
+  <a href="https://github.com/eddiejaoude?tab=alhassanv">
+    <img src="https://img.shields.io/github/followers/alhassanv?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
+  </a>
+  <a href="https://discord.com/invite/jZQs6Wu">
+    <img src="https://img.shields.io/discord/287164043591024641?logo=discord&style=for-the-badge" />
+  </a>
+</p>
 
 ---
 My Github Stats: 
