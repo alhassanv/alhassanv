@@ -9,10 +9,6 @@ I am Alhassan! I am a developer who is passionate about learning new technologie
 - 👨🏽‍💻 Current work on commissions.
 - 🌐 You can view my portfolio at [porfolio website](https://alhassan.dev).
 <br>
-
-<p align="center">
-  <img width="100%" src="https://github-readme-stats.vercel.app/api?username=alhassanv&show_icons=true&theme=tokyonight" />
-</p
   
-  <img align="left" alt="Alhassan's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=alhassanv3&show_icons=true&hide_border=true&theme=tokyonight"/>
+ <img align="left" alt="Alhassan's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=alhassanv&show_icons=true&hide_border=true&theme=tokyonight"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alhassanv&show_icons=true&hide_border=true&theme=tokyonight" />
