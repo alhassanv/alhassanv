@@ -4,7 +4,7 @@
 </p>
 
 ### Hi 👋 
-I am Alhassan! I am a developer who is passionate about learning new technologies, and development. I usually work on either JavaScript, TypeScript, and Python.
+I am Alhassan! I am a developer who is passionate about learning new technologies, and development. I usually work on either JavaScript, or TypeScript.
 
 - 👨🏽‍💻 Current work on commissions.
 - 🌐 You can view my portfolio at [porfolio website](https://alhassan.dev).
